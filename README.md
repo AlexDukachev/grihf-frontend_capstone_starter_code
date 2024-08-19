@@ -19,13 +19,13 @@ The Medical Appointment Booking website is a dynamic platform allowing users to 
    cd medical-appointment-booking
 2. **Install Dependencies:**
     ```bash
-    `npm install` 
+    npm install
 3. **Run the Development Server:**
     ```bash
-    `npm run start` 
+    npm run start
 4. **Build for Production:**
     ```bash
-    `npm run build`
+    npm run build
 5. **Deploy the Website:**
 Follow the specific instructions for your hosting provider to deploy the built website.
 
